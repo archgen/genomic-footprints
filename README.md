@@ -1,6 +1,6 @@
 # Genomic Footprints
 
-This repository contains simulation scripts used to explore the power and behavior of f₃ and f₄ statistics under a variety of demographic scenarios. The scripts generate the panels shown in Figures 2 and 3 of our study by running coalescent simulations (via msprime/stdpopsim), computing branch-based f₂/f₃/f₄ statistics, and plotting the results. Figures are from Williams & Huber 2025, The genomic footprints of migration: how ancient DNA is revealing our history of mobility.
+This repository contains simulation scripts used to explore the behavior of f₃ and f₄ statistics under a variety of demographic scenarios. The scripts generate the panels shown in Figures 2 and 3 of our study by running coalescent simulations (via msprime/stdpopsim), computing branch-based f₂/f₃/f₄ statistics, and plotting the results. Figures are from Williams & Huber 2025, The genomic footprints of migration: how ancient DNA is revealing our history of mobility.
 
 Directory structure:
 
