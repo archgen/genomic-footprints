@@ -35,4 +35,7 @@ bash pip install msprime tskit stdpopsim demesdraw numpy pandas seaborn matplotl
 3. For each figure (2A-B, 2C, 2D, 3B, 3C) cd into its directory and run the script in `src/`.  
 4. Output figures and data will be saved to the paths defined in each script (modify the `outdir` variable at the top of a script if needed).
 
+## License
+     This project is licensed under the (https://creativecommons.org/licenses/by/4.0/legalcode "Creative Commons - Attribution 4.0 International License (CC BY 4.0)") - see the [LICENSE] file for details.
+     
 
