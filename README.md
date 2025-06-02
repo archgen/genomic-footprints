@@ -36,6 +36,6 @@ bash pip install msprime tskit stdpopsim demesdraw numpy pandas seaborn matplotl
 4. Output figures and data will be saved to the paths defined in each script (modify the `outdir` variable at the top of a script if needed).
 
 ## License
-     This project is licensed under the (https://creativecommons.org/licenses/by/4.0/legalcode "Creative Commons - Attribution 4.0 International License (CC BY 4.0)") - see the [LICENSE] file for details.
+This project is licensed under the [Creative Commons - Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/legalcode "Creative Commons - Attribution 4.0 International License (CC BY 4.0)") - see the [LICENSE](LICENSE) file for details.
      
 
