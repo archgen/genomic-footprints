@@ -1,6 +1,6 @@
 # Genomic Footprints
 
-This repository contains simulation scripts used to explore the power and behavior of f₃ and f₄ statistics under a variety of demographic scenarios. The scripts generate the panels shown in Figures 2 and 3 of our study by running coalescent simulations (via msprime/stdpopsim), computing branch-based f₂/f₃/f₄ statistics, and plotting the results. Figures are from Williams & Huber 2025, The genomic footprints of migration: how ancient DNA is revealing our history of mobility.
+This repository contains simulation scripts used to explore the behavior of f₃ and f₄ statistics under a variety of demographic scenarios. The scripts generate the panels shown in Figures 2 and 3 of our study by running coalescent simulations (via msprime/stdpopsim), computing branch-based f₂/f₃/f₄ statistics, and plotting the results. Figures are from Williams & Huber 2025, The genomic footprints of migration: how ancient DNA is revealing our history of mobility.
 
 Directory structure:
 
@@ -35,4 +35,7 @@ bash pip install msprime tskit stdpopsim demesdraw numpy pandas seaborn matplotl
 3. For each figure (2A-B, 2C, 2D, 3B, 3C) cd into its directory and run the script in `src/`.  
 4. Output figures and data will be saved to the paths defined in each script (modify the `outdir` variable at the top of a script if needed).
 
+## License
+This project is licensed under the [Creative Commons - Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/legalcode "Creative Commons - Attribution 4.0 International License (CC BY 4.0)").
+     
 
